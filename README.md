@@ -1,27 +1,4 @@
-type: nvm use 4.4.3 to address the collect Unexpected token > error
-
-
-This example demonstrates how to use [Express](http://expressjs.com/) 4.x and
-[Passport](http://passportjs.org/) to authenticate users using a username and
-password with [form-based authentication](https://en.wikipedia.org/wiki/HTTP%2BHTML_form-based_authentication).
-Use this example as a starting point for your own web applications.
+LifeNet at ourLifeNet.com is meant to help people organize communities around a specific purpose or goal.  Whether it be to provide free food for eachother each night of the week or end homelesness this site provides the tools to organize.  Included is a network mapping tool, a calendar, and a personalizeable map. 
 
 ## Instructions
-
-To install this example on your computer, clone the repository and install
-dependencies.
-
-```bash
-$ git clone git@github.com:passport/express-4.x-local-example.git
-$ cd express-4.x-local-example
-$ npm install
-```
-
-Start the server.
-
-```bash
-$ node server.js
-```
-
-Open a web browser and navigate to [http://localhost:3000/](http://127.0.0.1:3000/)
-to see the example in action.  Log in using username `jack` and password `secret`.
+in the command line: 'nvm use 4.4.3' to address the collect Unexpected token > error
