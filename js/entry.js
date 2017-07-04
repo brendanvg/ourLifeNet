@@ -19,15 +19,15 @@ cy.style().selector('node:selected').style('background-color', 'magenta')
 //Event Listeners
 
 //at network start listeners
-var postNewNet= document.getElementById('postNewNet')
+/*var postNewNet= document.getElementById('postNewNet')
 postNewNet.addEventListener('click',lnf.postNewNet)
-
+*/
 var loadNets = document.getElementById('loadNets')
 loadNets.addEventListener('click',lnf.loadNets)
 
-var checkDb= document.getElementById('checkDb')
+/*var checkDb= document.getElementById('checkDb')
 checkDb.addEventListener('click',lnf.checkDb)
-
+*/
 function onIndexLoad () {
   console.log('loaaading!')
   lnf.loadNets()
