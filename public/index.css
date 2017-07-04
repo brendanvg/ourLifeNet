@@ -1,0 +1,60 @@
+
+.titlePanel {
+	min-height: 400;
+	border: 2px solid black;
+	background-color:tan;
+	text-color: blue;
+	text-align: center;
+}
+.titlePanel h1 {
+	font-size: 100;
+	margin-top: 5%;
+}
+
+.purpose {
+	background: lightblue;
+	border: 2px solid black; 
+}
+
+#cy {
+/*	width:80%;
+*/	height:80%;
+	display:block;
+	border: 2px solid black;
+	min-height: 400;
+/*	margin-left: 5%;
+*/
+};
+
+/*#groupLinkContent{
+	width:20%;
+}*/
+
+#container {
+	margin:auto;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+h4 {
+	text-align: center;
+}
+#addNodeBtn {
+/*	margin: auto;
+*//*	text-align: center;
+*//*	margin-left: 40%;
+*/}
+
+.answerBtnsSelected{
+	background-color: red;
+	color:red;
+}
+
+.specialButton:focus{
+	background:lightblue;
+}
